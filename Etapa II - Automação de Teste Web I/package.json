@@ -1,0 +1,12 @@
+{
+  "name": "automacao-testes",
+  "version": "1.0.0",
+  "description": "projeto de testes",
+  "main": "index.js",
+  "author": "Pedro",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
